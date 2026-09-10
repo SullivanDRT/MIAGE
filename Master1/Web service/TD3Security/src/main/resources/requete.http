@@ -1,8 +1,0 @@
-###
-POST http://localhost:8080/api/utilisateur
-Content-type: application/json
-
-{
-  "email" : "toto@gmail.com",
-  "motDePasse": "HappyBirthday"
-}

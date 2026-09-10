@@ -1,7 +1,0 @@
-POST http://localhost:8080/mpl/utilisateur
-Content-type: application/json
-
-{
-  "login": "Luck",
-  "password": "Luk"
-}
